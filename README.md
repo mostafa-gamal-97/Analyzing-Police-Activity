@@ -27,11 +27,26 @@ Study the policing interactions with different people at traffic stops.
 ## Results
 
 * Two thirds of female traffic stops are for speeding, whereas stops of males are more balanced across the six violations categories
-* No, the gender does not affect 
-* Yes, As for all types of violations, the search rate is higher for males than for females.
+
+![alt text](Images/Q1.jpg)
+
+* No, the gender does not affect
+
+![alt text](Images/Q2.jpg)
+
+* Yes, As for all types of violations, the search rate is higher for males than for females
+
+![alt text](Images/Q3.jpg)
+
 * Yes, the frisk rate for males is higher than for females.
 * Yes, the arrest rate has a significant spike overnight, and dips in the early morning hours
-* Yes, the rate of drug-stops nearly doubled over the course of 10 years.
+
+![alt text](Images/Q5.png)
+
+* Yes, the rate of drug-stops nearly doubled over the course of 10 years
+
+![alt text](Images/Q6.png)
+
 * It depends on the zone, but for majority of zones, the violations caught are similar.
 * It depends of each type of violation, but on average it's between 10 to 20 minutes.
 
